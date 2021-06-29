@@ -1,0 +1,145 @@
+#page-1 {
+  background: url(assets/main-bg.jpg);
+  background-size: cover;
+  position: absolute;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100 px;
+  left: -1.55px;
+  top: 0.11px;
+}
+
+nav {
+    display: flex;
+    position: absolute;
+    left: 107 px;
+    right: 0;
+    top: 0;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+nav logo {
+    position: absolute;
+    width: 77px;
+    height: 35px;
+    left: 107px;
+    top: 0;
+    font-family: open-sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12 px;
+    line-height: 35 px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+
+}
+
+ banner wrapper {
+    position: absolute;
+    height: 90 px;
+    left: 9.22%;
+    right: 10.47%;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 73.12 px;
+    line-height: 83 px;
+    text-align: center;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #FFFF;
+}
+
+ banner wrapper  {
+    position: absolute;
+    height: 73.12px;
+    left: 9.22%;
+    right: 10.47%;
+    top: 40%;
+    font-family: arial;
+    font-weight: normal;
+    text-align: center;
+    font-size: 18px;
+    font-weight: normal;
+    color: #ffff;
+    letter-spacing: 5px;
+}
+
+ wrapper button {
+    position: absolute;
+    left: 45%;
+    right: 55%;
+    top: 55.07%;
+    bottom: 38.68%;
+    background: linear-gradient ;
+    border-radius: 4px;
+}
+
+.story {
+    position: absolute;
+    left: 45%;
+    right: 55%;
+    top: 88%;
+    bottom: 5%;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+#page-2 {
+    background:url(assets/the-games-bg.jpg);
+    position: relative;
+    width: 1441.62px;
+    height: 1051.43px;
+
+}
+
+left {
+    position: absolute;
+    height: 38.23 px;
+    width: 366.44 px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 56px;
+    line-height: 64px;
+    letter-spacing: 3px;
+    text-transform: uppercase; 
+    color: #ffff;
+}
+
+left {
+    position: relative;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 2px;
+    color: #ffff;
+}
+
+right {
+    position: absolute;
+    width: 858px;
+    height: 477px;
+    left: 453px;
+    top: 318.7px;
+}
+
+#page-3 {
+    background: url(assets/features.jpg);
+    position: relative;
+    width: 100%;
+    height: 100 vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
